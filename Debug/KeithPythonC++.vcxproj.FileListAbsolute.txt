@@ -1,0 +1,2 @@
+C:\Users\akeit\source\repos\KeithPythonC++\Debug\KeithPythonC++.exe
+C:\Users\akeit\source\repos\KeithPythonC++\Debug\KeithPythonC++.pdb
